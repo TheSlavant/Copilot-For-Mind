@@ -1,0 +1,6 @@
+.env
+advisor_min.py
+quotes.py
+data/quotes
+conda-env*/
+gpt_index/
