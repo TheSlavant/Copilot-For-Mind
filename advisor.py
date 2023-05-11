@@ -46,7 +46,7 @@ def main():
     user_input = input("My thoughts: ")
     query = query + user_input
 
-    #index = build_index("data/advisor")
+    index = build_index("data/advisor")
     query_index(query, "index.json")
 
 if __name__ == "__main__":
