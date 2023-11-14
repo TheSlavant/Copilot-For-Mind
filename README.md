@@ -1,8 +1,8 @@
 # Tolstoi: Copilot for mind
 
-My Twitter: [@yaroshipilov](https://twitter.com/yaroshipilov)
+My Twitter: [@TheSlavant](https://twitter.com/TheSlavant)
 
-_Note: Tolstoi is a quick weekend project that I made for myself. While it is fun to play with, it is far from being fully reliable for now. If you're interested in making it better, [let me know!](https://twitter.com/yaroshipilov)_
+_Note: Tolstoi is a quick weekend project that I made for myself. While it is fun to play with, it is far from being fully reliable for now. If you're interested in making it better, [let me know!](https://twitter.com/TheSlavant)_
 
 Tolstoi is a tool that helps you think better. It uses your journals to learn about you and acts as a trusted advisor when you make new entries in your journal. 
 
